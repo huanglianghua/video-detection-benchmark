@@ -176,167 +176,131 @@
 
 ### ECCV 2016
 
-* Semantic Co-segmentation in Videos<br/>
-  Yi-Hsuan Tsai, Guangyu Zhong, Ming-Hsuan Yang<br/>
+* Yi-Hsuan Tsai, Guangyu Zhong, Ming-Hsuan Yang. "Semantic Co-segmentation in Videos."
   [[pdf](http://www.eccv2016.org/files/posters/P-3A-15.pdf)]
 
-* It’s Moving! A Probabilistic Model for Causal Motion Segmentation in Moving Camera Videos<br/>
-  Pia Bideau, Erik Miller<br/>
+* Pia Bideau, Erik Miller. "It’s Moving! A Probabilistic Model for Causal Motion Segmentation in Moving Camera Videos."
   [[pdf](http://www.eccv2016.org/files/posters/P-3C-24.pdf)]
 
-* Streaming Video Segmentation via Short-Term Hierarchical Segmentation and Frame-by-Frame Markov Random Field Optimization<br/>
-  Won-Dong Jang, Chang-Su Kim<br/>
+* Won-Dong Jang, Chang-Su Kim. "Streaming Video Segmentation via Short-Term Hierarchical Segmentation and Frame-by-Frame Markov Random Field Optimization."
   [[pdf](http://www.eccv2016.org/files/posters/P-4A-16.pdf)]
 
-* CDT: Cooperative Detection and Tracking for Tracing Multiple Objects in Video Sequences<br/>
-  Hanul Kim, Chang-Su Kim<br/>
+* Hanul Kim, Chang-Su Kim. "CDT: Cooperative Detection and Tracking for Tracing Multiple Objects in Video Sequences."
   [[pdf](http://www.eccv2016.org/files/posters/P-4A-31.pdf)]
 
-* CATS: Co-saliency Activated Tracklet Selection for Video Co-localization<br/>
-  Koteswar Jerripothula, Jianfei Cai, Junsong Yuan<br/>
+* Koteswar Jerripothula, Jianfei Cai, Junsong Yuan. "CATS: Co-saliency Activated Tracklet Selection for Video Co-localization."
   [[pdf](http://www.eccv2016.org/files/posters/P-4A-44.pdf)]
 
 ### CVPR 2016
 
-* Coherent Parametric Contours for Interactive Video Object Segmentation<br/>
-  Yao Lu, Xue Bai, Linda Shapiro, Jue Wang<br/>
+* __CPC__: Yao Lu, Xue Bai, Linda Shapiro, Jue Wang. "Coherent Parametric Contours for Interactive Video Object Segmentation."
   [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lu_Coherent_Parametric_Contours_CVPR_2016_paper.pdf)]
 
-* A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation<br/>
-  Federico Perazzi, Jordi Pont-Tuset, Brian McWilliams, Luc Van Gool, Markus Gross, Alexander Sorkine-Hornung<br/>
+* __DAVIS__: Federico Perazzi, Jordi Pont-Tuset, Brian McWilliams, Luc Van Gool, Markus Gross, Alexander Sorkine-Hornung. "A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation."
+  [[project](https://davischallenge.org/)]
   [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Perazzi_A_Benchmark_Dataset_CVPR_2016_paper.pdf)]
 
-* Track and Segment: An Iterative Unsupervised Approach for Video Object Proposals<br/>
-  Fanyi Xiao, Yong Jae Lee<br/>
+* __TrackAndSeg__: Fanyi Xiao, Yong Jae Lee. "Track and Segment: An Iterative Unsupervised Approach for Video Object Proposals."
   [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Xiao_Track_and_Segment_CVPR_2016_paper.pdf)]
 
-* Bilateral Space Video Segmentation<br/>
-  Nicolas Maerki, Federico Perazzi, Oliver Wang, Alexander Sorkine-Hornung<br/>
+* __BVS__: Nicolas Maerki, Federico Perazzi, Oliver Wang, Alexander Sorkine-Hornung. "Bilateral Space Video Segmentation."
   [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Maerki_Bilateral_Space_Video_CVPR_2016_paper.pdf)]
 
-* Object Detection From Video Tubelets With Convolutional Neural Networks<br/>
-  Kai Kang, Wanli Ouyang, Hongsheng Li, Xiaogang Wang<br/>
+* __TCN__: Kai Kang, Wanli Ouyang, Hongsheng Li, Xiaogang Wang. "Object Detection From Video Tubelets With Convolutional Neural Networks."
+  [[project](https://github.com/myfavouritekk/vdetlib)]
   [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kang_Object_Detection_From_CVPR_2016_paper.pdf)]
 
-* Feature Space Optimization for Semantic Video Segmentation<br/>
-  Abhijit Kundu, Vibhav Vineet, Vladlen Koltun<br/>
+* __FSO__: Abhijit Kundu, Vibhav Vineet, Vladlen Koltun. "Feature Space Optimization for Semantic Video Segmentation."
   [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kundu_Feature_Space_Optimization_CVPR_2016_paper.pdf)]
 
-* Instance-Level Video Segmentation From Object Tracks<br/>
-  Guillaume Seguin, Piotr Bojanowski, Remi Lajugie, Ivan Laptev<br/>
+* __ILVS__: Guillaume Seguin, Piotr Bojanowski, Remi Lajugie, Ivan Laptev. "Instance-Level Video Segmentation From Object Tracks."
   [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Seguin_Instance-Level_Video_Segmentation_CVPR_2016_paper.pdf)]
 
-* Video Segmentation via Object Flow<br/>
-  Yi-Hsuan Tsai, Ming-Hsuan Yang, Michael J. Black<br/>
+* __ObjectFlow__: Yi-Hsuan Tsai, Ming-Hsuan Yang, Michael J. Black. "Video Segmentation via Object Flow."
   [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Tsai_Video_Segmentation_via_CVPR_2016_paper.pdf)]
 
 ### ICCV 2015
 
-* Efficient Video Segmentation Using Parametric Graph Partitioning<br/>
-  Chen-Ping Yu, Hieu Le, Gregory Zelinsky, Dimitris Samaras<br/>
+* __PGP__: Chen-Ping Yu, Hieu Le, Gregory Zelinsky, Dimitris Samaras. "Efficient Video Segmentation Using Parametric Graph Partitioning."
   [[pdf](http://openaccess.thecvf.com/content_iccv_2015/papers/Yu_Efficient_Video_Segmentation_ICCV_2015_paper.pdf)]
 
-* Unsupervised Object Discovery and Tracking in Video Collections<br/>
-  Suha Kwak, Minsu Cho, Ivan Laptev, Jean Ponce, Cordelia Schmid<br/>
+* __UnsupVideo__: Suha Kwak, Minsu Cho, Ivan Laptev, Jean Ponce, Cordelia Schmid. "Unsupervised Object Discovery and Tracking in Video Collections."
   [[pdf](http://openaccess.thecvf.com/content_iccv_2015/papers/Kwak_Unsupervised_Object_Discovery_ICCV_2015_paper.pdf)]
 
-* Fully Connected Object Proposals for Video Segmentation<br/>
-  Federico Perazzi, Oliver Wang, Markus Gross, Alexander Sorkine-Hornung<br/>
+* __FCP__: Federico Perazzi, Oliver Wang, Markus Gross, Alexander Sorkine-Hornung. "Fully Connected Object Proposals for Video Segmentation."
   [[pdf](http://openaccess.thecvf.com/content_iccv_2015/papers/Perazzi_Fully_Connected_Object_ICCV_2015_paper.pdf)]
 
-* Video Segmentation With Just a Few Strokes<br/>
-  Naveen Shankar Nagaraja, Frank R. Schmidt, Thomas Brox<br/>
+* __JFS__: Naveen Shankar Nagaraja, Frank R. Schmidt, Thomas Brox. "Video Segmentation With Just a Few Strokes."
   [[pdf](http://openaccess.thecvf.com/content_iccv_2015/papers/Nagaraja_Video_Segmentation_With_ICCV_2015_paper.pdf)]
 
-* Multi-Cue Structure Preserving MRF for Unconstrained Video Segmentation<br/>
-  Saehoon Yi, Vladimir Pavlovic<br/>
+* __MSP-MRF__: Saehoon Yi, Vladimir Pavlovic. "Multi-Cue Structure Preserving MRF for Unconstrained Video Segmentation."
   [[pdf](http://openaccess.thecvf.com/content_iccv_2015/papers/Yi_Multi-Cue_Structure_Preserving_ICCV_2015_paper.pdf)]
 
-* Self-Occlusions and Disocclusions in Causal Video Object Segmentation<br/>
-  Yanchao Yang, Ganesh Sundaramoorthi, Stefano Soatto<br/>
+* __SOD__: Yanchao Yang, Ganesh Sundaramoorthi, Stefano Soatto. "Self-Occlusions and Disocclusions in Causal Video Object Segmentation."
   [[pdf](http://openaccess.thecvf.com/content_iccv_2015/papers/Yang_Self-Occlusions_and_Disocclusions_ICCV_2015_paper.pdf)]
 
-* Unsupervised Semantic Parsing of Video Collections<br/>
-  Ozan Sener, Amir R. Zamir, Silvio Savarese, Ashutosh Saxena<br/>
+* __UnsupParse__: Ozan Sener, Amir R. Zamir, Silvio Savarese, Ashutosh Saxena. "Unsupervised Semantic Parsing of Video Collections."
   [[pdf](http://openaccess.thecvf.com/content_iccv_2015/papers/Sener_Unsupervised_Semantic_Parsing_ICCV_2015_paper.pdf)]
 
 ### CVPR 2015
 
-* Classifier Based Graph Construction for Video Segmentation<br/>
-  Anna Khoreva, Fabio Galasso, Matthias Hein, Bernt Schiele<br/>
+* Anna Khoreva, Fabio Galasso, Matthias Hein, Bernt Schiele. "Classifier Based Graph Construction for Video Segmentation."
   [[pdf](http://openaccess.thecvf.com/content_cvpr_2015/papers/Khoreva_Classifier_Based_Graph_2015_CVPR_paper.pdf)]
   [[supp](http://openaccess.thecvf.com/content_cvpr_2015/supplemental/Khoreva_Classifier_Based_Graph_2015_CVPR_supplemental.zip)]
 
-* Saliency-Aware Geodesic Video Object Segmentation<br/>
-  Wenguan Wang, Jianbing Shen, Fatih Porikli<br/>
+* Wenguan Wang, Jianbing Shen, Fatih Porikli. "Saliency-Aware Geodesic Video Object Segmentation."
   [[pdf](http://openaccess.thecvf.com/content_cvpr_2015/papers/Wang_Saliency-Aware_Geodesic_Video_2015_CVPR_paper.pdf)]
 
-* Robust Video Segment Proposals With Painless Occlusion Handling<br/>
-  Zhengyang Wu, Fuxin Li, Rahul Sukthankar, James M. Rehg<br/>
+* Zhengyang Wu, Fuxin Li, Rahul Sukthankar, James M. Rehg. "Robust Video Segment Proposals With Painless Occlusion Handling."
   [[pdf](http://openaccess.thecvf.com/content_cvpr_2015/papers/Wu_Robust_Video_Segment_2015_CVPR_paper.pdf)]
 
-* Causal Video Object Segmentation From Persistence of Occlusions<br/>
-  Brian Taylor, Vasiliy Karasev, Stefano Soatto<br/>
+* Brian Taylor, Vasiliy Karasev, Stefano Soatto. "Causal Video Object Segmentation From Persistence of Occlusions."
   [[pdf](http://openaccess.thecvf.com/content_cvpr_2015/papers/Taylor_Causal_Video_Object_2015_CVPR_paper.pdf)]
   [[supp](http://openaccess.thecvf.com/content_cvpr_2015/supplemental/Taylor_Causal_Video_Object_2015_CVPR_supplemental.zip)]
 
-* Multiclass Semantic Video Segmentation With Object-Level Active Inference<br/>
-  Buyu Liu, Xuming He<br/>
+* Buyu Liu, Xuming He. "Multiclass Semantic Video Segmentation With Object-Level Active Inference."
   [[pdf](http://openaccess.thecvf.com/content_cvpr_2015/papers/Liu_Multiclass_Semantic_Video_2015_CVPR_paper.pdf)]
   [[supp](http://openaccess.thecvf.com/content_cvpr_2015/supplemental/Liu_Multiclass_Semantic_Video_2015_CVPR_supplemental.zip)]
 
-* Superpixel-Based Video Object Segmentation Using Perceptual Organization and Location Prior<br/>
-  Daniela Giordano, Francesca Murabito, Simone Palazzo, Concetto Spampinato<br/>
+* Daniela Giordano, Francesca Murabito, Simone Palazzo, Concetto Spampinato. "Superpixel-Based Video Object Segmentation Using Perceptual Organization and Location Prior."
   [[pdf](http://openaccess.thecvf.com/content_cvpr_2015/papers/Giordano_Superpixel-Based_Video_Object_2015_CVPR_paper.pdf)]
 
-* SOLD: Sub-Optimal Low-rank Decomposition for Efficient Video Segmentation<br/>
-  Chenglong Li, Liang Lin, Wangmeng Zuo, Shuicheng Yan, Jin Tang<br/>
+* Chenglong Li, Liang Lin, Wangmeng Zuo, Shuicheng Yan, Jin Tang. "SOLD: Sub-Optimal Low-rank Decomposition for Efficient Video Segmentation."
   [[pdf](http://openaccess.thecvf.com/content_cvpr_2015/papers/Li_SOLD_Sub-Optimal_Low-rank_2015_CVPR_paper.pdf)]
 
 ### ArXiv
 
-* Unseen Object Segmentation in Videos via Transferable Representations<br/>
-  Yi-Wen Chen, Yi-Hsuan Tsai, Chu-Ya Yang, Yen-Yu Lin, Ming-Hsuan Yang<br/>
+* Yi-Wen Chen, Yi-Hsuan Tsai, Chu-Ya Yang, Yen-Yu Lin, Ming-Hsuan Yang. "Unseen Object Segmentation in Videos via Transferable Representations."
   [[pdf](https://arxiv.org/pdf/1901.02444)]
 
-* Unsupervised Video Object Segmentation with Distractor-Aware Online Adaptation<br/>
-  Ye Wang, Jongmoo Choi, Yueru Chen, Siyang Li, Qin Huang, Kaitai Zhang, Ming-Sui Lee, C. -C. Jay Kuo<br/>
+* Ye Wang, Jongmoo Choi, Yueru Chen, Siyang Li, Qin Huang, Kaitai Zhang, Ming-Sui Lee, C. -C. Jay Kuo. "Unsupervised Video Object Segmentation with Distractor-Aware Online Adaptation."
   [[pdf](https://arxiv.org/pdf/1812.07712)]
 
-* Design Pseudo Ground Truth with Motion Cue for Unsupervised Video Object Segmentation<br/>
-  Ye Wang, Jongmoo Choi, Yueru Chen, Qin Huang, Siyang Li, Ming-Sui Lee, C. -C. Jay Kuo<br/>
+* Ye Wang, Jongmoo Choi, Yueru Chen, Qin Huang, Siyang Li, Ming-Sui Lee, C. -C. Jay Kuo. "Design Pseudo Ground Truth with Motion Cue for Unsupervised Video Object Segmentation."
   [[pdf](https://arxiv.org/pdf/1812.05206)]
 
-* Object Discovery in Videos as Foreground Motion Clustering<br/>
-  Christopher Xie, Yu Xiang, Dieter Fox, Zaid Harchaoui<br/>
+* Christopher Xie, Yu Xiang, Dieter Fox, Zaid Harchaoui. "Object Discovery in Videos as Foreground Motion Clustering."
   [[pdf](https://arxiv.org/pdf/1812.02772)]
 
-* Tube-CNN: Modeling temporal evolution of appearance for object detection in video<br/>
-  Tuan-Hung Vu, Anton Osokin, Ivan Laptev<br/>
+* Tuan-Hung Vu, Anton Osokin, Ivan Laptev. "Tube-CNN: Modeling temporal evolution of appearance for object detection in video."
   [[pdf](https://arxiv.org/pdf/1812.02619)]
 
-* Meta Learning Deep Visual Words for Fast Video Object Segmentation<br/>
-  Harkirat Singh Behl, Mohammad Najafi, Philip H. S. Torr<br/>
+* Harkirat Singh Behl, Mohammad Najafi, Philip H. S. Torr. "Meta Learning Deep Visual Words for Fast Video Object Segmentation."
   [[pdf](https://arxiv.org/pdf/1812.01397)]
 
-* A Generative Appearance Model for End-to-end Video Object Segmentation<br/>
-  Joakim Johnander, Martin Danelljan, Emil Brissman, Fahad Shahbaz Khan, Michael Felsberg<br/>
+* Joakim Johnander, Martin Danelljan, Emil Brissman, Fahad Shahbaz Khan, Michael Felsberg. "A Generative Appearance Model for End-to-end Video Object Segmentation."
   [[pdf](https://arxiv.org/pdf/1811.11611)]
 
-* Fast Object Detection in Compressed Video<br/>
-  Shiyao Wang, Hongchao Lu, Pavel Dmitriev, Zhidong Deng<br/>
+* Shiyao Wang, Hongchao Lu, Pavel Dmitriev, Zhidong Deng. "Fast Object Detection in Compressed Video."
   [[pdf](https://arxiv.org/pdf/1811.11057)]
 
-* Detect or Track: Towards Cost-Effective Video Object Detection/Tracking<br/>
-  Hao Luo, Wenxuan Xie, Xinggang Wang, Wenjun Zeng<br/>
+* Hao Luo, Wenxuan Xie, Xinggang Wang, Wenjun Zeng. "Detect or Track: Towards Cost-Effective Video Object Detection/Tracking."
   [[pdf](https://arxiv.org/pdf/1811.05340)]
 
-* Fast and accurate object detection in high resolution 4K and 8K video using GPUs<br/>
-  Vít Růžička, Franz Franchetti<br/>
+* Vít Růžička, Franz Franchetti. "Fast and accurate object detection in high resolution 4K and 8K video using GPUs."
   [[pdf](https://arxiv.org/pdf/1810.10551)]
 
-* Mask Propagation Network for Video Object Segmentation<br/>
-  Jia Sun, Dongdong Yu, Yinghong Li, Changhu Wang<br/>
+* Jia Sun, Dongdong Yu, Yinghong Li, Changhu Wang. "Mask Propagation Network for Video Object Segmentation."
   [[pdf](https://arxiv.org/pdf/1810.10289)]
 
 ## Datasets
