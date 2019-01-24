@@ -24,7 +24,7 @@ Evaluation results on ILSVRC VID validation set. All entries are ordered by the 
 | STMN (VGG-16)   | 61.7       | -                 | ECCV'18   |
 
 
-## Video Object Detection/Segmentation
+## Video Object Detection
 
 ### ECCV 2018
 
@@ -85,10 +85,6 @@ Evaluation results on ILSVRC VID validation set. All entries are ordered by the 
 
 ### BMVC 2017
 
-* __OnAVOS__: Paul Voigtlaender, Bastian Leibe. "Online Adaptation of Convolutional Neural Networks for Video Object Segmentation." BMVC 2017, Oral.
-  [[project](https://www.vision.rwth-aachen.de/page/OnAVOS)]
-  [[pdf](https://arxiv.org/abs/1706.09364)]
-
 ### ECCV 2016
 
 * Hanul Kim, Chang-Su Kim. "CDT: Cooperative Detection and Tracking for Tracing Multiple Objects in Video Sequences."
@@ -98,12 +94,6 @@ Evaluation results on ILSVRC VID validation set. All entries are ordered by the 
   [[pdf](http://www.eccv2016.org/files/posters/P-4A-44.pdf)]
 
 ### CVPR 2016
-
-* __CPC__: Yao Lu, Xue Bai, Linda Shapiro, Jue Wang. "Coherent Parametric Contours for Interactive Video Object Segmentation."
-  [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lu_Coherent_Parametric_Contours_CVPR_2016_paper.pdf)]
-
-* __TrackAndSeg__: Fanyi Xiao, Yong Jae Lee. "Track and Segment: An Iterative Unsupervised Approach for Video Object Proposals."
-  [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Xiao_Track_and_Segment_CVPR_2016_paper.pdf)]
 
 * __TCN__: Kai Kang, Wanli Ouyang, Hongsheng Li, Xiaogang Wang. "Object Detection From Video Tubelets With Convolutional Neural Networks."
   [[project](https://github.com/myfavouritekk/vdetlib)]
