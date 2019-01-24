@@ -83,8 +83,6 @@ Evaluation results on ILSVRC VID validation set. All entries are ordered by the 
 * __TPN-LSTM__: Kang Kai, Li Hongsheng, Xiao Tong, et al. "Object Detection in Videos with Tubelet Proposal Networks." CVPR 2017.
   [[pdf](https://arxiv.org/pdf/1702.06355)]
 
-### BMVC 2017
-
 ### ECCV 2016
 
 * Hanul Kim, Chang-Su Kim. "CDT: Cooperative Detection and Tracking for Tracing Multiple Objects in Video Sequences."
