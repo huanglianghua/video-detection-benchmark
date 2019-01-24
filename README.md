@@ -1,15 +1,15 @@
-# Video Object Detection on ImageNet VID
+# Video Object Detection on ILSVRC VID Dataset
 
 ## Video Detector Benchmark
 
-Evaluation results on ImageNet VID validation set. All entries are ordered by the mAP scores.
+Evaluation results on ILSVRC VID validation set. All entries are ordered by the mAP scores.
 
 |     Methods     |   mAP(%)   |  Runtime(ms/fps)  |   Venue   |
 |:---------------:|:----------:|:-----------------:|:---------:|
 | STMN (ResNet-101) | __80.5__ | 75 ms             | ECCV'18   |
 | MANet + SeqNMS  | 80.3       | -                 | ECCV'18   |
 | ST-Lattice (denser) | 79.6   | 20 fps            | CVPR'18   |
-| ST-Lattice (sparser) | 79.0  | 62 fps            | CVPR'18   |
+| ST-Lattice (sparser) | 79.0  | __62 fps__        | CVPR'18   |
 | D & T (τ=1)     | 79.8       | 5.3 fps           | ICCV'17   |
 | D & T (τ=10)    | 78.6       | 53 fps            | ICCV'17   |
 | THPVOD          | 78.6       | 13 fps            | CVPR'18   |
